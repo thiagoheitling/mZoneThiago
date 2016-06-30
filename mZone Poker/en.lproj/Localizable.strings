@@ -1,0 +1,18 @@
+/* 
+  Localizable.strings
+  mZone Poker
+
+  Created by Satraj Bambra on 2015-08-16.
+  Copyright © 2015 BHouse. All rights reserved.
+*/
+
+"Please enter your chip count" = "Please enter your chip count";
+"Please enter the big blind amount" = "Please enter the big blind amount";
+"Action Required" = "Action Required";
+"Ok" = "Ok";
+"CHIP COUNT" = "CHIP COUNT";
+"BIG BLIND" = "BIG BLIND";
+"WHAT SHOULD I DO?" = "WHAT SHOULD I DO?";
+"Recommendation" = "Recommendation";
+"You can wait for better cards" = "You can wait for better cards";
+"Go all in" = "Go all in";
